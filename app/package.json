@@ -1,0 +1,20 @@
+{
+  "name": "flexhub-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.6.0",
+    "@react-navigation/native": "^6.1.17",
+    "expo": "^51.0.0",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.0"
+  }
+}

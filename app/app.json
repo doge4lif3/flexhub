@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "FlexHub",
+    "slug": "flexhub",
+    "scheme": "flexhub",
+    "android": { "package": "com.flexhub.app" },
+    "ios": { "bundleIdentifier": "com.flexhub.app" }
+  }
+}
