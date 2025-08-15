@@ -1,7 +1,3 @@
-Here’s a clean GitHub README for your FlexHub project — with installation steps, screenshots section, and future roadmap:
-
-⸻
-
 # 📅 FlexHub – Adaptive Life Planner
 
 FlexHub is a _real-time adaptive life management app_ that helps you plan your schedule, manage your budget, and prioritize tasks — all while responding to real-world disruptions like weather, transit strikes, or supply shortages.
